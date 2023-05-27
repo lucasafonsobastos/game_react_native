@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo": "^48.0.17"
+  },
+  "devDependencies": {
+    "react-native-gesture-handler": "^2.10.1"
+  }
+}
